@@ -1,0 +1,11 @@
+{
+  "name": "pubg-potato-challenge-bot",
+  "version": "1.0.0",
+  "description": "PUBG challenges just for the fun of it!",
+  "main": "bot.js",
+  "author": "Dwayne Carsten, Dylan van Wyk",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^2.4.0"
+  }
+}
